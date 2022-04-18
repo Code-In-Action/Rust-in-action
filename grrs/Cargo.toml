@@ -1,5 +1,5 @@
 [package]
-name = "grrs"
+name = "@dyy/grrs"
 version = "0.1.0"
 authors = ["gtfx0209@gmail.com"]
 license = "MIT OR Apache-2.0"
